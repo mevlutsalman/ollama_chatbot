@@ -1,6 +1,6 @@
 #  MEV'S ISTQB AI TESTING EXAM PREP (Powered by Ollama)
 
-Bu proje, **ISTQB AI Tester** sınavına hazırlananlar için geliştirilmiş bir yapay zeka destekli Chatbot uygulamasıdır.  
+Bu uygulama, ISTQB AI Tester sertifikasına hazırlık sürecinde yardımcı bir araç olarak geliştirilmiş; aynı zamanda dar yapay zekayı (Narrow AI) uygulamalı olarak anlamak için eğitim amaçlı kullanılmıştır.
 Kullanıcılar, PDF formatındaki syllabus dosyasını yükleyerek içerikle ilgili sorular sorabilir ve sayfa numarasıyla birlikte yanıtlar alabilirler.
 
 ![ollamachatbot](https://github.com/user-attachments/assets/973a6d83-c5f0-4904-b1d9-330906fa623d)
